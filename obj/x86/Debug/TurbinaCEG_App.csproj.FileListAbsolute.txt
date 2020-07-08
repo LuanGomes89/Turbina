@@ -1,0 +1,146 @@
+D:\OneDrive\Mecanica Simone\TurbinaCEG_App\bin\Debug\TurbinaCEG.exe
+D:\OneDrive\Mecanica Simone\TurbinaCEG_App\bin\Debug\TurbinaCEG.pdb
+D:\OneDrive\Mecanica Simone\TurbinaCEG_App\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+D:\OneDrive\Mecanica Simone\TurbinaCEG_App\obj\x86\Debug\TurbinaCEG.Properties.Resources.resources
+D:\OneDrive\Mecanica Simone\TurbinaCEG_App\obj\x86\Debug\TurbinaCEG_App.csproj.GenerateResource.cache
+D:\OneDrive\Mecanica Simone\TurbinaCEG_App\obj\x86\Debug\TurbinaCEG_App.csproj.CoreCompileInputs.cache
+D:\OneDrive\Mecanica Simone\TurbinaCEG_App\obj\x86\Debug\TurbinaCEG.exe
+D:\OneDrive\Mecanica Simone\TurbinaCEG_App\obj\x86\Debug\TurbinaCEG.pdb
+D:\OneDrive\Mecanica Simone\TurbinaCEG_App\obj\x86\Debug\TurbinaCEG.Form2.resources
+D:\OneDrive\Mecanica Simone\TurbinaCEG_App\obj\x86\Debug\TurbinaCEG_App.csprojAssemblyReference.cache
+D:\OneDrive\Mecanica Simone\TurbinaCEG_App\obj\x86\Debug\TurbinaCEG.Form3.resources
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\SimpleModBusforPLC.AboutBox1.resources
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\SimpleModBusforPLC.CommConfig.resources
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\SimpleModBusforPLC.Ficha.resources
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\TurbinaCEG.Form2.resources
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\TurbinaCEG.Form3.resources
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\TurbinaCEG.Properties.Resources.resources
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\TurbinaCEG_App.csproj.GenerateResource.cache
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\TurbinaCEG_App.csproj.CoreCompileInputs.cache
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\bin\Debug\TurbinaCEG.exe
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\bin\Debug\TurbinaCEG.pdb
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\TurbinaCEG.exe
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\TurbinaCEG.pdb
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\SimpleModBusforPLC.Regula.resources
+D:\Onedrive\Mecanica Simone\TurbinaCEG_App_install\obj\x86\Debug\TurbinaCEG_App.csprojAssemblyReference.cache
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.exe
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.exe
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csprojResolveAssemblyReference.cache
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.AboutBox1.resources
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.CommConfig.resources
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Ficha.resources
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form2.resources
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form3.resources
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Properties.Resources.resources
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Regula.resources
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csproj.GenerateResource.Cache
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.exe
+C:\Users\USER1\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.pdb
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.exe
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.pdb
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.exe
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.pdb
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csprojResolveAssemblyReference.cache
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.AboutBox1.resources
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.CommConfig.resources
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Ficha.resources
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form2.resources
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form3.resources
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Properties.Resources.resources
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Regula.resources
+C:\Users\VacaBulario\Desktop\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csproj.GenerateResource.Cache
+I:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.exe
+I:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.pdb
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.exe
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.pdb
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csprojResolveAssemblyReference.cache
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.AboutBox1.resources
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.CommConfig.resources
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Ficha.resources
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form2.resources
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form3.resources
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Properties.Resources.resources
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Regula.resources
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csproj.GenerateResource.Cache
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.exe
+E:\Projeto_Piviti\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.exe
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.exe
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csprojResolveAssemblyReference.cache
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.AboutBox1.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.CommConfig.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Ficha.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form2.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form3.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Properties.Resources.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Regula.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csproj.GenerateResource.Cache
+E:\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.exe
+E:\Projeto_Visual_Basic_principal\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.exe
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csprojResolveAssemblyReference.cache
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.AboutBox1.resources
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.CommConfig.resources
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Ficha.resources
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form2.resources
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form3.resources
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Properties.Resources.resources
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Regula.resources
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Relatorio.resources
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csproj.GenerateResource.Cache
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\RdlCompile.cache
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\RdlCompile.compiled
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.exe
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Nova pasta\Projeto_Visual_Basic\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.exe
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.exe
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csprojResolveAssemblyReference.cache
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.AboutBox1.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.CommConfig.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Ficha.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form2.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form3.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Properties.Resources.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Regula.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Relatorio.resources
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csproj.GenerateResource.Cache
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\RdlCompile.cache
+C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\RdlCompile.compiled

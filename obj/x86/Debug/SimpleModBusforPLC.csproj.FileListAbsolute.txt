@@ -1,0 +1,34 @@
+C:\MODBUS\SimpleModBusforPLC\bin\Debug\SimpleModBusforPLC.exe
+C:\MODBUS\SimpleModBusforPLC\bin\Debug\SimpleModBusforPLC.pdb
+C:\MODBUS\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+C:\MODBUS\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.Properties.Resources.resources
+C:\MODBUS\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.csproj.GenerateResource.Cache
+C:\MODBUS\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.exe
+C:\MODBUS\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.pdb
+C:\MODBUS\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.csprojResolveAssemblyReference.cache
+C:\PLC UPDATE\How to make simple modbus RTU communication for PLC\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.exe
+C:\PLC UPDATE\How to make simple modbus RTU communication for PLC\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.pdb
+C:\PLC UPDATE\How to make simple modbus RTU communication for PLC\SimpleModBusforPLC\bin\Debug\SimpleModBusforPLC.exe
+C:\PLC UPDATE\How to make simple modbus RTU communication for PLC\SimpleModBusforPLC\bin\Debug\SimpleModBusforPLC.pdb
+C:\PLC UPDATE\How to make simple modbus RTU communication for PLC\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.csprojResolveAssemblyReference.cache
+C:\PLC UPDATE\How to make simple modbus RTU communication for PLC\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+C:\PLC UPDATE\How to make simple modbus RTU communication for PLC\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.Properties.Resources.resources
+C:\PLC UPDATE\How to make simple modbus RTU communication for PLC\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.csproj.GenerateResource.Cache
+D:\TRANSCONTROL\_Modbus\CSharp\SimpleModBusforPLC\bin\Debug\SimpleModBusforPLC.exe
+D:\TRANSCONTROL\_Modbus\CSharp\SimpleModBusforPLC\bin\Debug\SimpleModBusforPLC.pdb
+D:\TRANSCONTROL\_Modbus\CSharp\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+D:\TRANSCONTROL\_Modbus\CSharp\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.Properties.Resources.resources
+D:\TRANSCONTROL\_Modbus\CSharp\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.csproj.GenerateResource.cache
+D:\TRANSCONTROL\_Modbus\CSharp\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.csproj.CoreCompileInputs.cache
+D:\TRANSCONTROL\_Modbus\CSharp\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.exe
+D:\TRANSCONTROL\_Modbus\CSharp\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.pdb
+D:\TRANSCONTROL\_Modbus\CSharp\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.csprojAssemblyReference.cache
+D:\OneDrive\Mecanica Simone\SimpleModBusforPLC\bin\Debug\SimpleModBusforPLC.exe
+D:\OneDrive\Mecanica Simone\SimpleModBusforPLC\bin\Debug\SimpleModBusforPLC.pdb
+D:\OneDrive\Mecanica Simone\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.csprojAssemblyReference.cache
+D:\OneDrive\Mecanica Simone\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+D:\OneDrive\Mecanica Simone\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.Properties.Resources.resources
+D:\OneDrive\Mecanica Simone\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.csproj.GenerateResource.cache
+D:\OneDrive\Mecanica Simone\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.csproj.CoreCompileInputs.cache
+D:\OneDrive\Mecanica Simone\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.exe
+D:\OneDrive\Mecanica Simone\SimpleModBusforPLC\obj\x86\Debug\SimpleModBusforPLC.pdb

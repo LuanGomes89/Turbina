@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurbinaCEG_App", "TurbinaCEG_App.csproj", "{D753EEBA-F0C9-49E5-880A-571854F7DCCD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador", "Instalador\Instalador.vdproj", "{DE91ABE3-C23C-4E6C-B86A-9FC8372E9CE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D753EEBA-F0C9-49E5-880A-571854F7DCCD}.Debug|x86.ActiveCfg = Debug|x86
+		{D753EEBA-F0C9-49E5-880A-571854F7DCCD}.Debug|x86.Build.0 = Debug|x86
+		{D753EEBA-F0C9-49E5-880A-571854F7DCCD}.Release|x86.ActiveCfg = Release|x86
+		{D753EEBA-F0C9-49E5-880A-571854F7DCCD}.Release|x86.Build.0 = Release|x86
+		{DE91ABE3-C23C-4E6C-B86A-9FC8372E9CE5}.Debug|x86.ActiveCfg = Debug
+		{DE91ABE3-C23C-4E6C-B86A-9FC8372E9CE5}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED9107AC-C331-4471-B192-CA3348E5073C}
+	EndGlobalSection
+EndGlobal

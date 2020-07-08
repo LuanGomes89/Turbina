@@ -1950,8 +1950,7 @@ namespace SimpleModBusforPLC
 
         private void button1_Click_3(object sender, EventArgs e)
         {
-            Relatorio imprimirDadosRelatorio = new Relatorio(medidorM, ModeloM, FabricanteM, BitolaM, NserieM, medidorT, ModeloT,
-                FabricanteT, BitolaT, NserieT, Parecer, Data, Operador, Fator_M.Text, Fator_T.Text, Pulso_Min_M.Text, Pulso_Min_T.Text, Vol_Tot_M.Text, Vol_Tot_T.Text
+            Relatorio imprimirDadosRelatorio = new Relatorio( Operador, Fator_M.Text, Fator_T.Text, Pulso_Min_M.Text, Pulso_Min_T.Text, Vol_Tot_M.Text, Vol_Tot_T.Text
                 , Pulso_Tot_M.Text, Pulso_Tot_T.Text, Temp_M.Text, Temp_T.Text, Pres_M.Text, Pres_T.Text, Vazao_M.Text, Vazao_T.Text, label20.Text, label21.Text
                 , label22.Text, label23.Text, label24.Text, label25.Text, Vazao_M100.Text, Vazao_M70.Text, Vazao_M50.Text, Vazao_M30.Text, Vazao_M20.Text, Vazao_M10.Text
                 , Vazao_T100.Text, Vazao_T70.Text, Vazao_T50.Text, Vazao_T30.Text, Vazao_T20.Text, Vazao_T10.Text, Vol_Tot_M100.Text, Vol_Tot_M70.Text, Vol_Tot_M50.Text

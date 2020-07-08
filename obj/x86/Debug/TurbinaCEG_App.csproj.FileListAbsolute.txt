@@ -144,3 +144,18 @@ C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\
 C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csproj.GenerateResource.Cache
 C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\RdlCompile.cache
 C:\Users\USER1\Desktop\Projeto_Visual_Basic\Nova pasta\Projeto_Visual_Basic\obj\x86\Debug\RdlCompile.compiled
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.exe
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csprojResolveAssemblyReference.cache
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.AboutBox1.resources
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.CommConfig.resources
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Ficha.resources
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Form1.resources
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form2.resources
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG.Form3.resources
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Properties.Resources.resources
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Regula.resources
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\SimpleModBusforPLC.Relatorio.resources
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csproj.GenerateResource.Cache
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\RdlCompile.cache
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\RdlCompile.compiled

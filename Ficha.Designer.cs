@@ -29,6 +29,11 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label23 = new System.Windows.Forms.Label();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.txtfuido = new System.Windows.Forms.TextBox();
             this.txtpadrao3 = new System.Windows.Forms.TextBox();
             this.txtpadrao2 = new System.Windows.Forms.TextBox();
             this.txtpadrao1 = new System.Windows.Forms.TextBox();
@@ -71,21 +76,22 @@
             this.Salvar = new System.Windows.Forms.Button();
             this.Cancelar = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.txtfuido = new System.Windows.Forms.TextBox();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
-            this.label19 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
-            this.txttemp = new System.Windows.Forms.TextBox();
-            this.txtpress = new System.Windows.Forms.TextBox();
             this.txtumi = new System.Windows.Forms.TextBox();
+            this.txtpress = new System.Windows.Forms.TextBox();
+            this.txttemp = new System.Windows.Forms.TextBox();
+            this.label20 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.label23);
+            this.groupBox1.Controls.Add(this.label22);
+            this.groupBox1.Controls.Add(this.label21);
             this.groupBox1.Controls.Add(this.label16);
             this.groupBox1.Controls.Add(this.txtfuido);
             this.groupBox1.Controls.Add(this.txtpadrao3);
@@ -133,25 +139,68 @@
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Location = new System.Drawing.Point(19, 423);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(121, 13);
+            this.label23.TabIndex = 85;
+            this.label23.Text = "Sensor de Temperatura:";
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Location = new System.Drawing.Point(19, 397);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(88, 13);
+            this.label22.TabIndex = 84;
+            this.label22.Text = "Barômetro digital:";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Location = new System.Drawing.Point(19, 371);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(84, 13);
+            this.label21.TabIndex = 83;
+            this.label21.Text = "Medidor padrão:";
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Location = new System.Drawing.Point(18, 586);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(146, 13);
+            this.label16.TabIndex = 82;
+            this.label16.Text = "Fluido utilizado na calibração:";
+            // 
+            // txtfuido
+            // 
+            this.txtfuido.Location = new System.Drawing.Point(170, 579);
+            this.txtfuido.Name = "txtfuido";
+            this.txtfuido.Size = new System.Drawing.Size(389, 20);
+            this.txtfuido.TabIndex = 81;
+            // 
             // txtpadrao3
             // 
-            this.txtpadrao3.Location = new System.Drawing.Point(93, 416);
+            this.txtpadrao3.Location = new System.Drawing.Point(146, 416);
             this.txtpadrao3.Name = "txtpadrao3";
-            this.txtpadrao3.Size = new System.Drawing.Size(466, 20);
+            this.txtpadrao3.Size = new System.Drawing.Size(413, 20);
             this.txtpadrao3.TabIndex = 80;
             // 
             // txtpadrao2
             // 
-            this.txtpadrao2.Location = new System.Drawing.Point(93, 390);
+            this.txtpadrao2.Location = new System.Drawing.Point(106, 390);
             this.txtpadrao2.Name = "txtpadrao2";
-            this.txtpadrao2.Size = new System.Drawing.Size(466, 20);
+            this.txtpadrao2.Size = new System.Drawing.Size(453, 20);
             this.txtpadrao2.TabIndex = 79;
             // 
             // txtpadrao1
             // 
-            this.txtpadrao1.Location = new System.Drawing.Point(93, 364);
+            this.txtpadrao1.Location = new System.Drawing.Point(106, 364);
             this.txtpadrao1.Name = "txtpadrao1";
-            this.txtpadrao1.Size = new System.Drawing.Size(466, 20);
+            this.txtpadrao1.Size = new System.Drawing.Size(453, 20);
             this.txtpadrao1.TabIndex = 78;
             // 
             // label11
@@ -478,52 +527,30 @@
             this.groupBox2.Controls.Add(this.label17);
             this.groupBox2.Location = new System.Drawing.Point(590, -1);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(274, 186);
+            this.groupBox2.Size = new System.Drawing.Size(274, 189);
             this.groupBox2.TabIndex = 10;
             this.groupBox2.TabStop = false;
             // 
-            // txtfuido
+            // txtumi
             // 
-            this.txtfuido.Location = new System.Drawing.Point(170, 579);
-            this.txtfuido.Name = "txtfuido";
-            this.txtfuido.Size = new System.Drawing.Size(389, 20);
-            this.txtfuido.TabIndex = 81;
+            this.txtumi.Location = new System.Drawing.Point(156, 83);
+            this.txtumi.Name = "txtumi";
+            this.txtumi.Size = new System.Drawing.Size(100, 20);
+            this.txtumi.TabIndex = 6;
             // 
-            // label16
+            // txtpress
             // 
-            this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(18, 586);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(146, 13);
-            this.label16.TabIndex = 82;
-            this.label16.Text = "Fluido utilizado na calibração:";
+            this.txtpress.Location = new System.Drawing.Point(156, 57);
+            this.txtpress.Name = "txtpress";
+            this.txtpress.Size = new System.Drawing.Size(100, 20);
+            this.txtpress.TabIndex = 5;
             // 
-            // label17
+            // txttemp
             // 
-            this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(15, 16);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(112, 13);
-            this.label17.TabIndex = 0;
-            this.label17.Text = "Ambiente Laboratorial:";
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(15, 40);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(90, 13);
-            this.label18.TabIndex = 1;
-            this.label18.Text = "Temperatura (°C):";
-            // 
-            // label19
-            // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(15, 64);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(135, 13);
-            this.label19.TabIndex = 2;
-            this.label19.Text = "Pressão Barométrica (kPa):";
+            this.txttemp.Location = new System.Drawing.Point(156, 31);
+            this.txttemp.Name = "txttemp";
+            this.txttemp.Size = new System.Drawing.Size(100, 20);
+            this.txttemp.TabIndex = 4;
             // 
             // label20
             // 
@@ -534,26 +561,32 @@
             this.label20.TabIndex = 3;
             this.label20.Text = "Umidade Relativa (%):";
             // 
-            // txttemp
+            // label19
             // 
-            this.txttemp.Location = new System.Drawing.Point(156, 31);
-            this.txttemp.Name = "txttemp";
-            this.txttemp.Size = new System.Drawing.Size(100, 20);
-            this.txttemp.TabIndex = 4;
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(15, 64);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(135, 13);
+            this.label19.TabIndex = 2;
+            this.label19.Text = "Pressão Barométrica (kPa):";
             // 
-            // txtpress
+            // label18
             // 
-            this.txtpress.Location = new System.Drawing.Point(156, 57);
-            this.txtpress.Name = "txtpress";
-            this.txtpress.Size = new System.Drawing.Size(100, 20);
-            this.txtpress.TabIndex = 5;
+            this.label18.AutoSize = true;
+            this.label18.Location = new System.Drawing.Point(15, 40);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(90, 13);
+            this.label18.TabIndex = 1;
+            this.label18.Text = "Temperatura (°C):";
             // 
-            // txtumi
+            // label17
             // 
-            this.txtumi.Location = new System.Drawing.Point(156, 83);
-            this.txtumi.Name = "txtumi";
-            this.txtumi.Size = new System.Drawing.Size(100, 20);
-            this.txtumi.TabIndex = 6;
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(15, 16);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(112, 13);
+            this.label17.TabIndex = 0;
+            this.label17.Text = "Ambiente Laboratorial:";
             // 
             // Ficha
             // 
@@ -628,5 +661,8 @@
         public System.Windows.Forms.TextBox txtumi;
         public System.Windows.Forms.TextBox txtpress;
         public System.Windows.Forms.TextBox txttemp;
+        private System.Windows.Forms.Label label23;
+        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.Label label21;
     }
 }

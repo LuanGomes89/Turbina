@@ -38,7 +38,7 @@ namespace SimpleModBusforPLC
         double MediaError2 = 0;
         double Mediadp = 0;
         double Mediat95 = 0;
-        double distT = 0.0;
+        double error = 0;
         int numAmostras = 0;
         int numAmostras2 = 0; // criando 15/06
         int numAmostras3 = 0;
@@ -49,10 +49,10 @@ namespace SimpleModBusforPLC
 
         int x = 0;
 
-        string Cliente; string Operador; string endereco; string data; string tipoM; string tipoT; string desigM; string desigT;
+        string Cliente; string Operador; string endereco; string data; string dataemissao; string anodefrabicao;  string tipoM; string tipoT; string desigM; string desigT;
         string fabriM; string fabriT; string diameM; string diameT; string nserieM; string nserieT; string txtpadrao1; string txtpadrao2;
         string txtpadrao3; string instrucao; string descriçao ; string modeloM; string modeloT; string fluido; string press; string temp; string umi;
-
+        string padrao4;
         public Form1()
         {
             InitializeComponent();
@@ -629,14 +629,7 @@ namespace SimpleModBusforPLC
                                 End Sub
                                 */
 
-                                if (chart1.Series[0].Points.Count > 15) // 15/06
-                                {
-                                    chart1.Series[0].Points.RemoveAt(0); // 15/06
-                                    chart1.Update(); // 15/06
-
-                                }
-
-                                chart1.Series[0].Points.AddY(Convert.ToSingle(ErrorR.Text));// 15/06
+                              
                             }
 
 
@@ -656,7 +649,7 @@ namespace SimpleModBusforPLC
                             {
                                 StartEnable = false;
                                 PollingEnable = false;
-                                timer_parada.Enabled = false;
+                                timer_parada.Enabled = true;
                                 if (numAmostras2 > 3)
                                 {
                                     double media = 0, error = 0, dp = 0, t95 = 0;
@@ -668,8 +661,19 @@ namespace SimpleModBusforPLC
 
                                     textBox1.Text = media.ToString();
                                     textBox2.Text = error.ToString();
+                                    this.error = error;
                                     Dp.Text = dp.ToString();
                                     txtt95.Text = t95.ToString();
+
+                                    if (chart1.Series[0].Points.Count > 15) // 15/06
+                                    {
+                                        chart1.Series[0].Points.RemoveAt(0); // 15/06
+                                        chart1.Update(); // 15/06
+
+                                    }
+
+                                    // chart1.Series[0].Points.AddY(Convert.ToSingle(ErrorR.Text));// 15/06
+                                    chart1.Series[0].Points.AddY(Convert.ToSingle(error));
 
                                     numAmostras3 = 0;
                                     numAmostras2 = 0;
@@ -1463,7 +1467,7 @@ namespace SimpleModBusforPLC
             GroupMaster.Controls["Temp_M" + words[0]].Text = Temp_M.Text;
             GroupMaster.Controls["Pres_M" + words[0]].Text = Pres_M.Text;
             GroupMaster.Controls["Vazao_M" + words[0]].Text = Vazao_M.Text;
-            GroupMaster.Controls["Erro_" + words[0]].Text = ErrorR.Text;
+            GroupMaster.Controls["Erro_" + words[0]].Text = textBox2.Text;
            
 
 
@@ -1703,11 +1707,11 @@ namespace SimpleModBusforPLC
             f.ShowDialog(this);
 
             Cliente = f.txtcliente.Text; Operador = f.txtoperador.Text; endereco = f.txtendere.Text; data = f.txtdata.Text;
-            tipoM = f.txttipoM.Text; tipoT = f.txttipoT.Text; desigM = f.txtdesigM.Text; desigT = f.txtdesigT.Text; fabriM = f.txtfabriM.Text;
+            tipoM = f.txttipoM.Text; desigM = f.txtdesigM.Text; fabriM = f.txtfabriM.Text;
             fabriT = f.txtfabriT.Text; modeloM = f.txtmodeloM.Text; modeloT = f.txtmodeloT.Text; diameM = f.txtdiamM.Text; diameT = f.txtdiamT.Text;
             nserieM = f.txtnserieM.Text; nserieT = f.txtnserieT.Text; txtpadrao1 = f.txtpadrao1.Text; txtpadrao2 = f.txtpadrao2.Text;
             txtpadrao3 = f.txtpadrao3.Text; instrucao = f.txtinstru.Text; descriçao = f.txtdescri.Text; umi = f.txtumi.Text; temp = f.txttemp.Text;
-            press = f.txtpress.Text; fluido = f.txtfuido.Text;
+            press = f.txtpress.Text; fluido = f.txtfuido.Text; anodefrabicao = f.txtanodefrabri.Text; padrao4 = f.txtpadrao4.Text;
 
         }
 
@@ -1950,14 +1954,30 @@ namespace SimpleModBusforPLC
 
         private void button1_Click_3(object sender, EventArgs e)
         {
-            Relatorio imprimirDadosRelatorio = new Relatorio( Operador, Fator_M.Text, Fator_T.Text, Pulso_Min_M.Text, Pulso_Min_T.Text, Vol_Tot_M.Text, Vol_Tot_T.Text
-                , Pulso_Tot_M.Text, Pulso_Tot_T.Text, Temp_M.Text, Temp_T.Text, Pres_M.Text, Pres_T.Text, Vazao_M.Text, Vazao_T.Text, label20.Text, label21.Text
+            Relatorio imprimirDadosRelatorio = new Relatorio(Qmin.Text, Qmax.Text,txtpadrao2,txtpadrao3,Cliente,endereco,data,dataemissao,tipoM,diameM, anodefrabicao, instrucao
+                ,desigM, descriçao,fluido,temp,press,umi,txtpadrao1,modeloM,fabriM,nserieM,padrao4,modeloT,fabriT,nserieT,Operador,Fator_M.Text, label20.Text, label21.Text
                 , label22.Text, label23.Text, label24.Text, label25.Text, Vazao_M100.Text, Vazao_M70.Text, Vazao_M50.Text, Vazao_M30.Text, Vazao_M20.Text, Vazao_M10.Text
                 , Vazao_T100.Text, Vazao_T70.Text, Vazao_T50.Text, Vazao_T30.Text, Vazao_T20.Text, Vazao_T10.Text, Vol_Tot_M100.Text, Vol_Tot_M70.Text, Vol_Tot_M50.Text
                 , Vol_Tot_M30.Text, Vol_Tot_M20.Text, Vol_Tot_M10.Text, Vol_Tot_T100.Text, Vol_Tot_T70.Text, Vol_Tot_T50.Text, Vol_Tot_T30.Text, Vol_Tot_T20.Text, Vol_Tot_T10.Text
                 , Erro_100.Text, Erro_70.Text, Erro_50.Text, Erro_30.Text, Erro_20.Text, Erro_10.Text);
 
+                        
             imprimirDadosRelatorio.Show();
+            chart1.Printing.PrintPreview();
+           
+
+            /*label20.Text, label21.Text
+                , label22.Text, label23.Text, label24.Text, label25.Text, Vazao_M100.Text, Vazao_M70.Text, Vazao_M50.Text, Vazao_M30.Text, Vazao_M20.Text, Vazao_M10.Text
+                , Vazao_T100.Text, Vazao_T70.Text, Vazao_T50.Text, Vazao_T30.Text, Vazao_T20.Text, Vazao_T10.Text, Vol_Tot_M100.Text, Vol_Tot_M70.Text, Vol_Tot_M50.Text
+                , Vol_Tot_M30.Text, Vol_Tot_M20.Text, Vol_Tot_M10.Text, Vol_Tot_T100.Text, Vol_Tot_T70.Text, Vol_Tot_T50.Text, Vol_Tot_T30.Text, Vol_Tot_T20.Text, Vol_Tot_T10.Text
+                , Erro_100.Text, Erro_70.Text, Erro_50.Text, Erro_30.Text, Erro_20.Text, Erro_10.Text*/
+
+            /*Cliente = f.txtcliente.Text; Operador = f.txtoperador.Text; endereco = f.txtendere.Text; data = f.txtdata.Text;
+            tipoM = f.txttipoM.Text; tipoT = f.txttipoT.Text; desigM = f.txtdesigM.Text; desigT = f.txtdesigT.Text; fabriM = f.txtfabriM.Text;
+            fabriT = f.txtfabriT.Text; modeloM = f.txtmodeloM.Text; modeloT = f.txtmodeloT.Text; diameM = f.txtdiamM.Text; diameT = f.txtdiamT.Text;
+            nserieM = f.txtnserieM.Text; nserieT = f.txtnserieT.Text; txtpadrao1 = f.txtpadrao1.Text; txtpadrao2 = f.txtpadrao2.Text;
+            txtpadrao3 = f.txtpadrao3.Text; instrucao = f.txtinstru.Text; descriçao = f.txtdescri.Text; umi = f.txtumi.Text; temp = f.txttemp.Text;
+            press = f.txtpress.Text; fluido = f.txtfuido.Text;*/
 
         }
 

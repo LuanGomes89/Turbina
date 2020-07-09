@@ -159,3 +159,17 @@ C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x8
 C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\TurbinaCEG_App.csproj.GenerateResource.Cache
 C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\RdlCompile.cache
 C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\obj\x86\Debug\RdlCompile.compiled
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.exe
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\TurbinaCEG.pdb
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\USER1\Documents\Visual Studio 2015\Projects\Projeto_Visual_Basic\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll

@@ -38,9 +38,9 @@ namespace SimpleModBusforPLC
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.portconnect = new System.Windows.Forms.Button();
             this.portname = new System.Windows.Forms.ComboBox();
@@ -163,6 +163,12 @@ namespace SimpleModBusforPLC
             this.label17 = new System.Windows.Forms.Label();
             this.Fator_M = new System.Windows.Forms.TextBox();
             this.GroupMaster = new System.Windows.Forms.GroupBox();
+            this.label38 = new System.Windows.Forms.Label();
+            this.label37 = new System.Windows.Forms.Label();
+            this.label36 = new System.Windows.Forms.Label();
+            this.label35 = new System.Windows.Forms.Label();
+            this.label34 = new System.Windows.Forms.Label();
+            this.label33 = new System.Windows.Forms.Label();
             this.Erro_100 = new System.Windows.Forms.TextBox();
             this.Erro_70 = new System.Windows.Forms.TextBox();
             this.Erro_50 = new System.Windows.Forms.TextBox();
@@ -223,12 +229,6 @@ namespace SimpleModBusforPLC
             this.StatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.TempoLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
-            this.label36 = new System.Windows.Forms.Label();
-            this.label37 = new System.Windows.Forms.Label();
-            this.label38 = new System.Windows.Forms.Label();
             this.groupBox2.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -384,7 +384,7 @@ namespace SimpleModBusforPLC
             // label30
             // 
             this.label30.AutoSize = true;
-            this.label30.Location = new System.Drawing.Point(618, 223);
+            this.label30.Location = new System.Drawing.Point(603, 252);
             this.label30.Name = "label30";
             this.label30.Size = new System.Drawing.Size(62, 13);
             this.label30.TabIndex = 69;
@@ -392,7 +392,7 @@ namespace SimpleModBusforPLC
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(621, 236);
+            this.textBox3.Location = new System.Drawing.Point(606, 265);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(67, 20);
             this.textBox3.TabIndex = 68;
@@ -400,7 +400,7 @@ namespace SimpleModBusforPLC
             // label31
             // 
             this.label31.AutoSize = true;
-            this.label31.Location = new System.Drawing.Point(510, 313);
+            this.label31.Location = new System.Drawing.Point(532, 303);
             this.label31.Name = "label31";
             this.label31.Size = new System.Drawing.Size(67, 13);
             this.label31.TabIndex = 70;
@@ -409,7 +409,7 @@ namespace SimpleModBusforPLC
             // label29
             // 
             this.label29.AutoSize = true;
-            this.label29.Location = new System.Drawing.Point(409, 301);
+            this.label29.Location = new System.Drawing.Point(474, 304);
             this.label29.Name = "label29";
             this.label29.Size = new System.Drawing.Size(56, 13);
             this.label29.TabIndex = 87;
@@ -417,14 +417,15 @@ namespace SimpleModBusforPLC
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(412, 317);
+            this.textBox2.Location = new System.Drawing.Point(477, 320);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(52, 20);
             this.textBox2.TabIndex = 86;
+            this.textBox2.Visible = false;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(513, 329);
+            this.textBox1.Location = new System.Drawing.Point(535, 319);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(65, 20);
             this.textBox1.TabIndex = 85;
@@ -432,7 +433,7 @@ namespace SimpleModBusforPLC
             // lblt95
             // 
             this.lblt95.AutoSize = true;
-            this.lblt95.Location = new System.Drawing.Point(822, 329);
+            this.lblt95.Location = new System.Drawing.Point(962, 330);
             this.lblt95.Name = "lblt95";
             this.lblt95.Size = new System.Drawing.Size(22, 13);
             this.lblt95.TabIndex = 84;
@@ -440,7 +441,7 @@ namespace SimpleModBusforPLC
             // 
             // txtt95
             // 
-            this.txtt95.Location = new System.Drawing.Point(853, 322);
+            this.txtt95.Location = new System.Drawing.Point(993, 323);
             this.txtt95.Name = "txtt95";
             this.txtt95.Size = new System.Drawing.Size(55, 20);
             this.txtt95.TabIndex = 83;
@@ -448,7 +449,7 @@ namespace SimpleModBusforPLC
             // label28
             // 
             this.label28.AutoSize = true;
-            this.label28.Location = new System.Drawing.Point(706, 329);
+            this.label28.Location = new System.Drawing.Point(874, 330);
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(21, 13);
             this.label28.TabIndex = 82;
@@ -456,7 +457,7 @@ namespace SimpleModBusforPLC
             // 
             // Dp
             // 
-            this.Dp.Location = new System.Drawing.Point(733, 322);
+            this.Dp.Location = new System.Drawing.Point(901, 323);
             this.Dp.Name = "Dp";
             this.Dp.Size = new System.Drawing.Size(55, 20);
             this.Dp.TabIndex = 71;
@@ -464,7 +465,7 @@ namespace SimpleModBusforPLC
             // Nvezes
             // 
             this.Nvezes.AutoSize = true;
-            this.Nvezes.Location = new System.Drawing.Point(677, 327);
+            this.Nvezes.Location = new System.Drawing.Point(677, 326);
             this.Nvezes.Name = "Nvezes";
             this.Nvezes.Size = new System.Drawing.Size(13, 13);
             this.Nvezes.TabIndex = 81;
@@ -552,14 +553,14 @@ namespace SimpleModBusforPLC
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(256, 323);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(49, 13);
+            this.label2.Size = new System.Drawing.Size(94, 13);
             this.label2.TabIndex = 69;
-            this.label2.Text = "Relatório";
+            this.label2.Text = "Relatório / Gráfico";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(311, 315);
+            this.button1.Location = new System.Drawing.Point(356, 313);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 30;
@@ -1475,6 +1476,78 @@ namespace SimpleModBusforPLC
             this.GroupMaster.TabStop = false;
             this.GroupMaster.Text = "Turbina Master";
             // 
+            // label38
+            // 
+            this.label38.AutoSize = true;
+            this.label38.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label38.Location = new System.Drawing.Point(288, 234);
+            this.label38.MinimumSize = new System.Drawing.Size(50, 2);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(50, 15);
+            this.label38.TabIndex = 101;
+            this.label38.Text = "10%";
+            this.label38.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label37
+            // 
+            this.label37.AutoSize = true;
+            this.label37.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label37.Location = new System.Drawing.Point(232, 234);
+            this.label37.MinimumSize = new System.Drawing.Size(50, 2);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(50, 15);
+            this.label37.TabIndex = 100;
+            this.label37.Text = "10%";
+            this.label37.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label36
+            // 
+            this.label36.AutoSize = true;
+            this.label36.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label36.Location = new System.Drawing.Point(176, 234);
+            this.label36.MinimumSize = new System.Drawing.Size(50, 2);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(50, 15);
+            this.label36.TabIndex = 99;
+            this.label36.Text = "10%";
+            this.label36.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label35
+            // 
+            this.label35.AutoSize = true;
+            this.label35.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label35.Location = new System.Drawing.Point(120, 234);
+            this.label35.MinimumSize = new System.Drawing.Size(50, 2);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(50, 15);
+            this.label35.TabIndex = 98;
+            this.label35.Text = "10%";
+            this.label35.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label34
+            // 
+            this.label34.AutoSize = true;
+            this.label34.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label34.Location = new System.Drawing.Point(64, 234);
+            this.label34.MinimumSize = new System.Drawing.Size(50, 2);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(50, 15);
+            this.label34.TabIndex = 97;
+            this.label34.Text = "10%";
+            this.label34.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label33
+            // 
+            this.label33.AutoSize = true;
+            this.label33.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label33.Location = new System.Drawing.Point(8, 234);
+            this.label33.MinimumSize = new System.Drawing.Size(50, 2);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(50, 15);
+            this.label33.TabIndex = 96;
+            this.label33.Text = "10%";
+            this.label33.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // Erro_100
             // 
             this.Erro_100.Location = new System.Drawing.Point(288, 249);
@@ -1968,97 +2041,24 @@ namespace SimpleModBusforPLC
             // 
             // chart1
             // 
-            this.chart1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(211)))), ((int)(((byte)(223)))), ((int)(((byte)(240)))));
             this.chart1.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
             this.chart1.BackSecondaryColor = System.Drawing.Color.White;
-            this.chart1.BorderlineColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(59)))), ((int)(((byte)(105)))));
+            this.chart1.BorderlineColor = System.Drawing.Color.Transparent;
             this.chart1.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid;
-            chartArea3.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea3);
-            legend3.Name = "Legend1";
-            this.chart1.Legends.Add(legend3);
+            chartArea1.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.chart1.Legends.Add(legend1);
             this.chart1.Location = new System.Drawing.Point(15, 391);
             this.chart1.Name = "chart1";
-            series3.ChartArea = "ChartArea1";
-            series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series3.Legend = "Legend1";
-            series3.Name = "Series1";
-            this.chart1.Series.Add(series3);
+            series1.ChartArea = "ChartArea1";
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series1.Legend = "Legend1";
+            series1.Name = "Gráfico ";
+            this.chart1.Series.Add(series1);
             this.chart1.Size = new System.Drawing.Size(823, 343);
             this.chart1.TabIndex = 71;
             this.chart1.Text = "chart1";
-            // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label33.Location = new System.Drawing.Point(8, 234);
-            this.label33.MinimumSize = new System.Drawing.Size(50, 2);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(50, 15);
-            this.label33.TabIndex = 96;
-            this.label33.Text = "10%";
-            this.label33.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label34
-            // 
-            this.label34.AutoSize = true;
-            this.label34.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label34.Location = new System.Drawing.Point(64, 234);
-            this.label34.MinimumSize = new System.Drawing.Size(50, 2);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(50, 15);
-            this.label34.TabIndex = 97;
-            this.label34.Text = "10%";
-            this.label34.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label35
-            // 
-            this.label35.AutoSize = true;
-            this.label35.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label35.Location = new System.Drawing.Point(120, 234);
-            this.label35.MinimumSize = new System.Drawing.Size(50, 2);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(50, 15);
-            this.label35.TabIndex = 98;
-            this.label35.Text = "10%";
-            this.label35.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label36
-            // 
-            this.label36.AutoSize = true;
-            this.label36.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label36.Location = new System.Drawing.Point(176, 234);
-            this.label36.MinimumSize = new System.Drawing.Size(50, 2);
-            this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(50, 15);
-            this.label36.TabIndex = 99;
-            this.label36.Text = "10%";
-            this.label36.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label37
-            // 
-            this.label37.AutoSize = true;
-            this.label37.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label37.Location = new System.Drawing.Point(232, 234);
-            this.label37.MinimumSize = new System.Drawing.Size(50, 2);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(50, 15);
-            this.label37.TabIndex = 100;
-            this.label37.Text = "10%";
-            this.label37.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label38
-            // 
-            this.label38.AutoSize = true;
-            this.label38.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label38.Location = new System.Drawing.Point(288, 234);
-            this.label38.MinimumSize = new System.Drawing.Size(50, 2);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(50, 15);
-            this.label38.TabIndex = 101;
-            this.label38.Text = "10%";
-            this.label38.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
@@ -2160,7 +2160,6 @@ namespace SimpleModBusforPLC
         private System.Windows.Forms.Button btnStop;
         private System.Windows.Forms.Button btnStart;
         private System.Windows.Forms.ComboBox Percentual;
-        private System.Windows.Forms.TextBox Vazao_M;
         private System.Windows.Forms.TextBox Pres_M;
         private System.Windows.Forms.TextBox Temp_M;
         private System.Windows.Forms.Label label7;
@@ -2260,7 +2259,6 @@ namespace SimpleModBusforPLC
         private Label label6;
         private TextBox Qt;
         private Label label3;
-        private TextBox ErrorR;
         private Label Nvezes;
         private Label label28;
         private TextBox Dp;
@@ -2285,6 +2283,8 @@ namespace SimpleModBusforPLC
         private Label label35;
         private Label label34;
         private Label label33;
+        public TextBox ErrorR;
+        public TextBox Vazao_M;
     }
 }
 

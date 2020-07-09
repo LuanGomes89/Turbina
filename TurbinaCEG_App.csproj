@@ -150,6 +150,17 @@
       <DependentUpon>Relatorio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="relatorio.rdlc" />
+    <None Include="Properties\DataSources\AboutBox1.datasource" />
+    <None Include="Properties\DataSources\CommConfig.datasource" />
+    <None Include="Properties\DataSources\Ficha.datasource" />
+    <None Include="Properties\DataSources\Form1.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\DataSources\Regula.datasource" />
+    <None Include="Properties\DataSources\Relatorio.datasource" />
+    <None Include="Properties\DataSources\SimpleModBusforPLC.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\SimpleModBusforPLC.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\TurbinaCEG.Form2.datasource" />
+    <None Include="Properties\DataSources\TurbinaCEG.Form3.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

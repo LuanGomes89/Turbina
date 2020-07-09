@@ -9,8 +9,11 @@ using System.Windows.Forms;
 
 namespace SimpleModBusforPLC
 {
+    
+
     public partial class Relatorio : Form
     {
+        double resto = 89;
         public Relatorio(string Qmin, string Qmax, string Barometro, string SensorTemp, string client, string Endereco,  string DataCalibracao
             , string DataEmissao, string Tipo, string Diametro, string AnoFabricacao, string Instrucao, string Designacao, string Descricao, string Fluido
             , string TemperaturaAmbiente, string PrecaoBarometrica, string UmidadeRelativa, string MedidorM, string ModeloM, string FabricanteM, string NserieM , string MedidorT, string ModeloT, string FabricanteT, string NserieT, string Operador, string FatorKM
@@ -109,6 +112,8 @@ namespace SimpleModBusforPLC
             this.reportViewer1.RefreshReport();
             
         }
+
+   
     }
 }
 
